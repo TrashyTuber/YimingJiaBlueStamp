@@ -37,17 +37,18 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 |:--:|:--:|:--:|:--:|
 | Arduino Uno R3 |  | $25.94 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| LCD I2C |  | $11.99 | <a href="https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/"> here </a> |
+| LCD I2C | **Important** The SDA and SCL pins are connected to the A4 and A5 pins on the Uno R3, this means that if you are adding an LCD display, you cannot use the A4 and A5 pins at the same time | $11.99 | <a href="https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Arcade Buttons |  | $11.00 | <a href="https://www.amazon.com/Avisiri-Buttons-Replace-OBSF-24-Joystick/dp/B07X242Z4D/"> here </a> |
+| Arcade Buttons | Without a mux, you can only use 12 buttons for the controller | $11.00 | <a href="https://www.amazon.com/Avisiri-Buttons-Replace-OBSF-24-Joystick/dp/B07X242Z4D/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Rotary Potentiometer |  | $9.99 | <a href="https://www.amazon.com/dp/B07DHL77RT/"> here </a> |
+| Rotary Potentiometer | Without a mux, you can only use 4 of potentiometers **including** the sliders | $9.99 | <a href="https://www.amazon.com/dp/B07DHL77RT/"> here </a> |
 |:--:|:--:|:--:|:--:|
 | Slide Potentiometer |  | $13.99 | <a href="https://www.amazon.com/1100PCS-Headers-Connector-Housing-Ltvystore/dp/B07232HGS1/?th=1"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Container | Any container will work, I just used a square cardboard box at first and then added a smaller one for the LCD | depends | depends 
+| Container | Any container will work, I just used a square cardboard box at first and then added a smaller one for the LCD, make sure to cut the holes smaller so that the buttons and potentiometer don't end up being wobbly | depends | depends 
 
 # Tools
+
 | **Tool** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Soldering Kit | $20.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> here </a> |
