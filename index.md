@@ -5,7 +5,7 @@ Imagine that you want a piano just for fun but realize that they cost thousands 
 |:--:|:--:|:--:|:--:|
 | Yiming Jia | Dougherty Valley High School | Electrical Engineering | Incoming Sophomore
 
-![Headstone Image](Midi Controller.jpg)
+![Headstone Image](Midi%20Controller.jpg)
 
 # Demo Night
 
@@ -65,7 +65,7 @@ My first milestone was managing to produce a MIDI sound by pressing a button and
 
 ![Schematic Image](Midi_schem.jpg)
 ![Breadboard Image](Midi_bb.jpg)
-![Actual Image](Midi Controller Inside.jpg)
+![Actual Image](Midi%20Controller%20Inside.jpg)
 
 
 # Code
