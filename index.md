@@ -63,9 +63,9 @@ My first milestone was managing to produce a MIDI sound by pressing a button and
 
 # Schematic
 
-![Schematic Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi_schem.jpg)
-![Breadboard Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi_bb.jpg)
-![Actual Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi%20Controller%20Inside.jpg)
+![Schematic Image](Midi_schem.jpg)
+![Breadboard Image](Midi_bb.jpg)
+![Actual Image](Midi Controller Inside.jpg)
 
 
 # Code
