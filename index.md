@@ -43,7 +43,7 @@ My first milestone was managing to produce a MIDI sound by pressing a button and
 |:--:|:--:|:--:|:--:|
 | Arcade Buttons | Without a mux, you can only use 12 buttons for the controller | $11.00 | <a href="https://www.amazon.com/Avisiri-Buttons-Replace-OBSF-24-Joystick/dp/B07X242Z4D/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Rotary Potentiometer | Without a mux, you can only use 4 of potentiometers **including** the sliders | $9.99 | <a href="https://www.amazon.com/dp/B07DHL77RT/"> here </a> |
+| Rotary Potentiometer | Without a mux, you can only use 4 (6 if you are not using a LCD display) of potentiometers **including** the sliders | $9.99 | <a href="https://www.amazon.com/dp/B07DHL77RT/"> here </a> |
 |:--:|:--:|:--:|:--:|
 | Slide Potentiometer |  | $13.99 | <a href="https://www.amazon.com/1100PCS-Headers-Connector-Housing-Ltvystore/dp/B07232HGS1/?th=1"> here </a> |
 |:--:|:--:|:--:|:--:|
