@@ -59,6 +59,13 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 | 22 Gauge Wires | $14.94 | <a href="https://www.amazon.com/gp/product/B088KQFHV7/ref=ox_sc_act_title_2?smid=A2WIZBA4LZM5RA&psc=1"> here </a> |
 
 
+# Schematic
+
+![Schematic Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi_schem.jpg)
+![Breadboard Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi_bb.jpg)
+![Actual Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi%20Controller%20Inside.jpg)
+
+
 # Code
 
 ```c++
