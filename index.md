@@ -5,7 +5,7 @@ Imagine that you want a piano just for fun but realize that they cost thousands 
 |:--:|:--:|:--:|:--:|
 | Yiming Jia | Dougherty Valley High School | Electrical Engineering | Incoming Sophomore
 
-![Headstone Image]("Midi Controller.jpg)
+![Headstone Image](Midi Controller.jpg)
 
 # Demo Night
 
