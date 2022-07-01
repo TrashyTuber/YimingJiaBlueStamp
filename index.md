@@ -7,6 +7,10 @@ Imagine that you want a piano just for fun but realize that they cost thousands 
 
 ![Headstone Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi%20Controller.jpg)
 
+# Demo Night
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/WNKK-mkF240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Final Milestone
 
