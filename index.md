@@ -50,9 +50,9 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 # Tools
 
 | **Tool** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Soldering Kit | $20.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> here </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Wire Strippers | $6.99 | <a href="https://www.amazon.com/gp/product/B097STWW4Q/ref=ox_sc_act_title_1?smid=AZ0MMPOLVYF3T&psc=1"> here </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | 22 Gauge Wires | $14.94 | <a href="https://www.amazon.com/gp/product/B088KQFHV7/ref=ox_sc_act_title_2?smid=A2WIZBA4LZM5RA&psc=1"> here </a> |
