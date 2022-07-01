@@ -6,12 +6,14 @@ Imagine that you want a piano just for fun but realize that they cost thousands 
 | Yiming Jia | Dougherty Valley High School | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi%20Controller.jpg)
-  
+
+
 # Final Milestone
 
 I was basically done with my controller at at the second milestone as I have already finished making the controller and its functions but I wanted to add a display showcasing the instruments so you can see what you have selected. The LCD part I got was an I2C so there was only four ports I needed to plug into and for the vcc part, I soldered my previous 5v wires up to a resistor and the new one to the end of it since I was having crashes from my potentiometers at max value. Once that was completed, I imported the library for LCD I2Cs and used it to output text when the value of the potentiometer for intruments changed. I also didn't know what to do for the second line of the LCD so I added a volume bar and I was able to test out special characters using hexcode for it. I did basically the same thing for what I did for the instruments and checked if the value for it has changed. In the end, my product can produce notes, switch octaves, adjust volume and instruments and have it show up on a display, and other smaller things like the reverb settings and a sustain pedal. 
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/stWiOH5JV6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Second Milestone
 
@@ -19,19 +21,15 @@ My second milestone was mainly making the box of the controller and soldering al
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Sj6T5Gp7otA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 # First Milestone
 
 My first milestone was managing to produce a MIDI sound by pressing a button and being able to adjust its volume through a potentiometer. Through coding, I managed to check when the button is being pressed and send out a Serial output which can be converted into MIDI. I also did the same for the potentiometer where it checks if there's a big enough change in the read of the potentiometer and then produce an output which can also be converted into MIDI. Through the MIDI message list, I learned what each of the number outputs does and that allowed the output to correspond with the correct function.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/5lB8M1C9zg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 # Materials
-
-
-
-https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/
-
-https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
