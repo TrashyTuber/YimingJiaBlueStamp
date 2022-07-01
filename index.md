@@ -24,3 +24,25 @@ My second milestone was mainly making the box of the controller and soldering al
 My first milestone was managing to produce a MIDI sound by pressing a button and being able to adjust its volume through a potentiometer. Through coding, I managed to check when the button is being pressed and send out a Serial output which can be converted into MIDI. I also did the same for the potentiometer where it checks if there's a big enough change in the read of the potentiometer and then produce an output which can also be converted into MIDI. Through the MIDI message list, I learned what each of the number outputs does and that allowed the output to correspond with the correct function.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/5lB8M1C9zg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Materials
+
+
+
+https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/
+
+https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
+
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Arduino Uno R3 |  | $25.94 | 
+|:--:|:--:|:--:|:--:|
+| LCD I2C |  | $11.99 | 
+|:--:|:--:|:--:|:--:|
+| Buttons |  | $11.99 |
+|:--:|:--:|:--:|:--:|
+| Potentiometer |  | $11.99 | 
+|:--:|:--:|:--:|:--:|
+| Slide Potentiometer |  | $11.99 |
+|:--:|:--:|:--:|:--:|
+| Container | Any container will work, I just used a square cardboard box at first and then added a smaller one for the LCD | depends | depends 
