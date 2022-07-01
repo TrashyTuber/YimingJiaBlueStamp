@@ -35,19 +35,23 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Uno R3 |  | $25.94 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/">Visit W3Schools.com!</a> |
+| Arduino Uno R3 |  | $25.94 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| LCD I2C |  | $11.99 | 
+| LCD I2C |  | $11.99 | <a href="https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Buttons |  | $11.99 |
+| Arcade Buttons |  | $11.00 | <a href="https://www.amazon.com/Avisiri-Buttons-Replace-OBSF-24-Joystick/dp/B07X242Z4D/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Potentiometer |  | $11.99 | 
+| Rotary Potentiometer |  | $9.99 | <a href="https://www.amazon.com/dp/B07DHL77RT/"> here </a> |
 |:--:|:--:|:--:|:--:|
-| Slide Potentiometer |  | $11.99 |
+| Slide Potentiometer |  | $13.99 | <a href="https://www.amazon.com/1100PCS-Headers-Connector-Housing-Ltvystore/dp/B07232HGS1/?th=1"> here </a> |
 |:--:|:--:|:--:|:--:|
 | Container | Any container will work, I just used a square cardboard box at first and then added a smaller one for the LCD | depends | depends 
 
 # Tools
 | **Tool** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Soldering Kit | $ |  |
+| Soldering Kit | $20.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> here </a> |
+|:--:|:--:|:--:|:--:|
+| Wire Strippers | $6.99 | <a href="https://www.amazon.com/gp/product/B097STWW4Q/ref=ox_sc_act_title_1?smid=AZ0MMPOLVYF3T&psc=1"> here </a> |
+|:--:|:--:|:--:|:--:|
+| 22 Gauge Wires | $14.94 | <a href="https://www.amazon.com/gp/product/B088KQFHV7/ref=ox_sc_act_title_2?smid=A2WIZBA4LZM5RA&psc=1"> here </a> |
