@@ -35,7 +35,7 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Uno R3 |  | $25.94 | 
+| Arduino Uno R3 |  | $25.94 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/">Visit W3Schools.com!</a> |
 |:--:|:--:|:--:|:--:|
 | LCD I2C |  | $11.99 | 
 |:--:|:--:|:--:|:--:|
@@ -46,3 +46,8 @@ https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/
 | Slide Potentiometer |  | $11.99 |
 |:--:|:--:|:--:|:--:|
 | Container | Any container will work, I just used a square cardboard box at first and then added a smaller one for the LCD | depends | depends 
+
+# Tools
+| **Tool** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Soldering Kit | $ |  |
