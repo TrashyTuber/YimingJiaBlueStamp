@@ -5,7 +5,7 @@ Imagine that you want a piano just for fun but realize that they cost thousands 
 |:--:|:--:|:--:|:--:|
 | Yiming Jia | Dougherty Valley High School | Electrical Engineering | Incoming Sophomore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://github.com/TrashyTuber/YimingJiaBlueStamp/blob/gh-pages/Midi%20Controller.jpg)
   
 # Final Milestone
 
