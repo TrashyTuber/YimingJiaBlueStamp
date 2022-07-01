@@ -83,7 +83,8 @@ My first milestone was managing to produce a MIDI sound by pressing a button and
  * MIDI Note Table: https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies 
  * MIDI Control Change Table: https://anotherproducer.com/online-tools-for-musicians/midi-cc-list/
  * MIDI Instruments Table: https://en.wikipedia.org/wiki/General_MIDI
- * 
+ * MIDI Status Bytes List: https://www.midi.org/specifications-old/item/table-2-expanded-messages-list-status-bytes 
+ *
  */
 
 #include <SoftwareWire.h>
